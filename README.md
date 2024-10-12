@@ -1,10 +1,10 @@
 # Hello World!  🌅
-- ☀️: I am a student majoring in artificial intelligence
+- 📖: I am a student majoring in artificial intelligence
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lxy0068&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
   
-- ⚡ I am interested in systems
+- ✨ I am interested in systems
 
-- ✨ I like traveling, photography, movies and independent music
+- 😄 I like traveling, photography, movies and independent music
 
 - :hammer:  Personal website ：https://lxy0068.github.io/
 
