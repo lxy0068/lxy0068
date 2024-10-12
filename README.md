@@ -24,6 +24,6 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>AI</strong> to create smarter user experiences
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always be self-driven around <strong>Goals and Passion</strong>
+    <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Fire.png" alt="Lightning Emoji" width="25px" align="center" /> Always be self-driven around <strong>Goals and Passion</strong>
   </li>
 </ul>
